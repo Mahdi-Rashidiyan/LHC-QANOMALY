@@ -373,8 +373,9 @@ And cite the dataset:
 
 ## Contact
 
-For questions or issues, please open a GitHub issue or email: user@example.com
+For questions or issues, please open a GitHub issue or email: mahdirashidiyan32@gmail.com
 
 ---
 
 **Status**: Ready for production use and internship evaluation. ✨
+
