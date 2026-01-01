@@ -1,0 +1,23 @@
+[
+  "tests/test_pipeline.py::TestAPI::test_api_health_check",
+  "tests/test_pipeline.py::TestAPI::test_api_score_without_model",
+  "tests/test_pipeline.py::TestAPI::test_api_score_wrong_dimensions",
+  "tests/test_pipeline.py::TestCLI::test_cli_score_command",
+  "tests/test_pipeline.py::TestCLI::test_cli_train_command",
+  "tests/test_pipeline.py::TestDataLoader::test_fit_scaler",
+  "tests/test_pipeline.py::TestDataLoader::test_get_background_features",
+  "tests/test_pipeline.py::TestDataLoader::test_get_features_only",
+  "tests/test_pipeline.py::TestDataLoader::test_get_labels",
+  "tests/test_pipeline.py::TestDataLoader::test_get_scaled_tensor",
+  "tests/test_pipeline.py::TestDataLoader::test_load_features",
+  "tests/test_pipeline.py::TestDataLoader::test_scaler_state_save_restore",
+  "tests/test_pipeline.py::TestDataLoader::test_transform_features",
+  "tests/test_pipeline.py::TestInference::test_load_model_and_scaler",
+  "tests/test_pipeline.py::TestInference::test_score_features_h5",
+  "tests/test_pipeline.py::TestModel::test_decode",
+  "tests/test_pipeline.py::TestModel::test_encode",
+  "tests/test_pipeline.py::TestModel::test_forward",
+  "tests/test_pipeline.py::TestModel::test_model_initialization",
+  "tests/test_pipeline.py::TestModel::test_reconstruction_error",
+  "tests/test_pipeline.py::TestTraining::test_train_autoencoder"
+]
