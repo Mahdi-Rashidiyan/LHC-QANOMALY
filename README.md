@@ -346,9 +346,9 @@ If you use this project in research, please cite:
 ```bibtex
 @software{lhc_qanomaly_2024,
   title = {LHC Qanomaly: Anomaly Detection Platform for LHC Olympics Dataset},
-  author = {Your Name},
+  author = {Mahdi Rashidiyan},
   year = {2024},
-  url = {https://github.com/yourusername/lhc-qanomaly}
+  url = {https://github.com/Mahdi-Rashidiyan/lhc-qanomaly}
 }
 ```
 
